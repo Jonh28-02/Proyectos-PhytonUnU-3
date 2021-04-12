@@ -11,7 +11,7 @@ def ventana_inicio():
     ventana_principal.title("Login con tkinter")
     Label(text="Escoja su opción", bg="LightGreen", width="300", height="2", font=("Calibri", 13)).pack()
     Label(text="").pack()
-    Button(text="Acceder", height="2", width="30", bg=pestas_color, command=login).pack() 
+    Button(text="Iniciar Sesion", height="2", width="30", bg=pestas_color, command=login).pack() 
     Label(text="").pack()
     Button(text="Registrarse", height="2", width="30", bg=pestas_color, command=registro).pack()
     Label(text="").pack()
@@ -63,11 +63,11 @@ def login():
     global entrada_login_usuario
     global entrada_login_clave
  
-    Label(ventana_login, text="Nombre usuario * ").pack()
+    Label(ventana_login, text="Nombre usuario").pack()
     entrada_login_usuario = Entry(ventana_login, textvariable=verifica_usuario)
     entrada_login_usuario.pack()
     Label(ventana_login, text="").pack()
-    Label(ventana_login, text="Contraseña * ").pack()
+    Label(ventana_login, text="Contraseña").pack()
     entrada_login_clave = Entry(ventana_login, textvariable=verifica_clave, show= '*')
     entrada_login_clave.pack()
     Label(ventana_login, text="").pack()
