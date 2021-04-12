@@ -1,3 +1,4 @@
+
 menu="""
 Bienvenido al Programa xd
 MENU
@@ -22,6 +23,7 @@ def Ejercicio_1():
          print((sueldo * .15)+sueldo)
      else:
          print((sueldo * .08)+sueldo)
+         
          
          
          
