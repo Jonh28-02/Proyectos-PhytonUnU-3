@@ -5,7 +5,7 @@ from tkinter import messagebox as MessageBox
 import re
 from io import open
 class Registro:
-    def __init__(self, master):
+    def  __init__(self, master):
         self.master = master
         master.title("Registro Profesores y Alumnos con herencia")
         master.geometry('800x573')

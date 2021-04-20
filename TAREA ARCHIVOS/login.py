@@ -1,3 +1,4 @@
+from Persona import Persona
 from main import Registro
 from tkinter import *
 import os
@@ -8,7 +9,7 @@ def ventana_inicio():
     pestas_color="DarkGrey"
     ventana_principal=Tk()
     ventana_principal.geometry("300x250")
-    ventana_principal.title("Login con tkinter")
+    ventana_principal.title("Login")
     Label(text="Escoja su opción", bg="LightGreen", width="300", height="2", font=("Calibri", 13)).pack()
     Label(text="").pack()
     Button(text="Iniciar Sesion", height="2", width="30", bg=pestas_color, command=login).pack() 
@@ -89,12 +90,13 @@ def verifica_login():
        
         if clave1 in verifica:
 
-               root = Tk()
-               root.resizable(False, False)
-               root.configure(background = "#ff7c7c")
-               miVentana = Registro(root)
-               root.mainloop()
-            
+                root = Tk()
+                root.resizable(False, False)
+                root.configure(background = "#ff7c7c")
+                miVentana = Registro(root)
+                root.mainloop()
+                #por alguna razon que desconozco estuve investigando y no se como solucionar eso de que cuando abro la ventana con el login se fucionan esta y la principal, pero weno quienes somos nostros para juzgar
+
         else:
             no_clave() 
     
