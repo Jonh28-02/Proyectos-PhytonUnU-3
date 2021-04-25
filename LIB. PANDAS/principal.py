@@ -1,5 +1,6 @@
 from tkinter import *
 import pandas as pd
+
 pd.__version__
 
 camaras = pd.read_csv("csv_camaras_2.csv")
@@ -85,14 +86,6 @@ def consulta10():
     consulta100.geometry("350x410")
     label1= Label(consulta100, text = camaras.loc[camaras['Model'].str.startswith("Nikon")&(camaras['Zoom tele (T)']==114)&(camaras['Normal focus range']==30)&(camaras['Macro focus range']==4)&(camaras['Storage included']==13)&(camaras['Weight (inc. batteries)']==175)&(camaras['Dimensions']==93)&(camaras['Price']==279),['Model','Zoom tele (T)','Price']]).place(x=0, y =0)
     
-principal = Tk()
-principal.title("PAGINA PRINCIPAL")
-principal.geometry("300x300")
-principal.config(bg="purple")
-btnIniciar = Button(principal, text="INICIAR POGRAMA", command = consultas).place(x=100, y=130)
-principal.mainloop()
-
-
 
 
 
