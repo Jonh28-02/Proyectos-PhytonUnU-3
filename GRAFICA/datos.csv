@@ -1,127 +1,13 @@
 ﻿Entidad,Entidad-N,municipio,Municipio,Localidad,Ubicación,Tipo,Edad,Sexo,Talla,Talla-M,Peso,IMC,Categoria
-9,Distrito Federal,17,Venustiano Carranza,1,Venustiano Carranza,Urbano,5,Mujer,111.44,1.1143334,19.1,15.381656,Normal
-9,Distrito Federal,17,Venustiano Carranza,1,Venustiano Carranza,Urbano,6,Hombre,111.3,1.113,18.299999,14.772729,Normal
-9,Distrito Federal,17,Venustiano Carranza,1,Venustiano Carranza,Urbano,16,Mujer,149.8,1.498,41.560001,18.520466,Normal
-9,Distrito Federal,17,Venustiano Carranza,1,Venustiano Carranza,Urbano,6,Mujer,108.8,1.0880001,19.639999,16.591423,Normal
-9,Distrito Federal,17,Venustiano Carranza,1,Venustiano Carranza,Urbano,13,Hombre,157.03999,1.5703334,48,19.465139,Normal
-9,Distrito Federal,15,Cuauhtémoc,1,Cuauhtémoc,Urbano,5,Mujer,108.2,1.082,19.24,16.434275,Normal
-9,Distrito Federal,15,Cuauhtémoc,1,Cuauhtémoc,Urbano,11,Hombre,135.75999,1.3576666,37.099998,20.127398,Sobrepeso
-9,Distrito Federal,15,Cuauhtémoc,1,Cuauhtémoc,Urbano,5,Mujer,112.14,1.1213334,18.540001,14.744847,Normal
-9,Distrito Federal,16,Miguel Hidalgo,1,Miguel Hidalgo,Urbano,10,Hombre,146.14,1.4613333,34.66,16.230429,Normal
-9,Distrito Federal,16,Miguel Hidalgo,1,Miguel Hidalgo,Urbano,16,Hombre,174.46001,1.7446666,67.400002,22.142927,Normal
-9,Distrito Federal,16,Miguel Hidalgo,1,Miguel Hidalgo,Urbano,13,Hombre,156.89999,1.5689999,49.84,20.245672,Normal
-9,Distrito Federal,16,Miguel Hidalgo,1,Miguel Hidalgo,Urbano,9,Hombre,138.74001,1.3873334,31.459999,16.345455,Normal
-9,Distrito Federal,14,Benito Juárez,1,Benito Juárez,Urbano,12,Mujer,152.66,1.5266668,69.860001,29.973682,Obesidad
-9,Distrito Federal,14,Benito Juárez,1,Benito Juárez,Urbano,6,Mujer,113.2,1.132,22.16,17.293262,Sobrepeso
-9,Distrito Federal,3,Coyoacán,1,Coyoacán,Urbano,13,Mujer,161.16,1.6116667,64.660004,24.893459,Sobrepeso
-9,Distrito Federal,3,Coyoacán,1,Coyoacán,Urbano,7,Hombre,130.06,1.3006667,34.040001,20.121368,Obesidad
-9,Distrito Federal,3,Coyoacán,1,Coyoacán,Urbano,12,Hombre,156.06,1.5606667,58.84,24.15752,Obesidad
-9,Distrito Federal,10,Álvaro Obregón,1,Álvaro Obregón,Urbano,15,Mujer,162.5,1.625,70,26.508875,Sobrepeso
-9,Distrito Federal,10,Álvaro Obregón,1,Álvaro Obregón,Urbano,14,Hombre,164.16,1.6416668,49.84,18.493027,Normal
-9,Distrito Federal,10,Álvaro Obregón,1,Álvaro Obregón,Urbano,6,Hombre,108,1.08,18.6,15.946502,Normal
-9,Distrito Federal,10,Álvaro Obregón,1,Álvaro Obregón,Urbano,18,Mujer,155.46001,1.5546666,65.760002,27.207413,Sobrepeso
-9,Distrito Federal,10,Álvaro Obregón,1,Álvaro Obregón,Urbano,16,Mujer,142.3,1.423,55.16,27.240461,Sobrepeso
-9,Distrito Federal,10,Álvaro Obregón,1,Álvaro Obregón,Urbano,6,Hombre,121.24,1.2123333,26.860001,18.275192,Sobrepeso
-9,Distrito Federal,10,Álvaro Obregón,1,Álvaro Obregón,Urbano,13,Mujer,142.3,1.423,61.240002,30.243036,Obesidad
-9,Distrito Federal,10,Álvaro Obregón,1,Álvaro Obregón,Urbano,5,Hombre,106.34,1.0633334,17.24,15.247489,Normal
-9,Distrito Federal,10,Álvaro Obregón,1,Álvaro Obregón,Urbano,17,Mujer,175.16,1.7516667,66.300003,21.607803,Normal
-9,Distrito Federal,10,Álvaro Obregón,1,Álvaro Obregón,Urbano,12,Mujer,140.46001,1.4046665,55.16,27.956177,Obesidad
-9,Distrito Federal,10,Álvaro Obregón,1,Álvaro Obregón,Urbano,7,Hombre,118.24,1.1823334,22.200001,15.880827,Normal
-9,Distrito Federal,10,Álvaro Obregón,1,Álvaro Obregón,Urbano,5,Mujer,105.7,1.0569999,18.360001,16.433224,Normal
-9,Distrito Federal,10,Álvaro Obregón,1,Álvaro Obregón,Urbano,10,Hombre,136.53999,1.3653334,36.700001,19.687412,Sobrepeso
-9,Distrito Federal,10,Álvaro Obregón,1,Álvaro Obregón,Urbano,12,Hombre,144.86,1.4486667,33.400002,15.915106,Normal
-9,Distrito Federal,10,Álvaro Obregón,1,Álvaro Obregón,Urbano,7,Hombre,120.56,1.2056667,22.559999,15.519745,Normal
-9,Distrito Federal,10,Álvaro Obregón,1,Álvaro Obregón,Urbano,13,Hombre,157.06,1.5706667,44.700001,18.119219,Normal
-9,Distrito Federal,10,Álvaro Obregón,1,Álvaro Obregón,Urbano,9,Hombre,136.56,1.3656666,48.439999,25.972559,Obesidad
-9,Distrito Federal,10,Álvaro Obregón,1,Álvaro Obregón,Urbano,6,Hombre,115.34,1.1533333,22.66,17.035318,Sobrepeso
-9,Distrito Federal,4,Cuajimalpa de Morelos,1,Cuajimalpa de Morelos,Urbano,9,Mujer,142,1.42,35,17.357668,Normal
-9,Distrito Federal,4,Cuajimalpa de Morelos,1,Cuajimalpa de Morelos,Urbano,9,Mujer,122.56,1.2256666,25.200001,16.774742,Normal
-9,Distrito Federal,4,Cuajimalpa de Morelos,1,Cuajimalpa de Morelos,Urbano,10,Mujer,136.2,1.362,32.259998,17.390423,Normal
-9,Distrito Federal,4,Cuajimalpa de Morelos,1,Cuajimalpa de Morelos,Urbano,7,Hombre,122.74,1.2273333,26.860001,17.831217,Sobrepeso
-9,Distrito Federal,4,Cuajimalpa de Morelos,1,Cuajimalpa de Morelos,Urbano,9,Hombre,126.26,1.2626667,24.540001,15.392073,Normal
-9,Distrito Federal,4,Cuajimalpa de Morelos,1,Cuajimalpa de Morelos,Urbano,10,Hombre,132.64,1.3263333,27.4,15.575616,Normal
-9,Distrito Federal,5,Gustavo A. Madero,1,Gustavo A. Madero,Urbano,9,Hombre,131.66,1.3166667,41.560001,23.97308,Obesidad
-9,Distrito Federal,5,Gustavo A. Madero,1,Gustavo A. Madero,Urbano,10,Mujer,127.96,1.2796667,31.1,18.991823,Normal
-9,Distrito Federal,5,Gustavo A. Madero,1,Gustavo A. Madero,Urbano,5,Hombre,111.14,1.1113334,18.540001,15.011395,Normal
-9,Distrito Federal,5,Gustavo A. Madero,1,Gustavo A. Madero,Urbano,16,Mujer,158.60001,1.5860001,60.939999,24.226797,Sobrepeso
-9,Distrito Federal,5,Gustavo A. Madero,1,Gustavo A. Madero,Urbano,8,Hombre,142.39999,1.4239999,40.639999,20.041664,Obesidad
-9,Distrito Federal,5,Gustavo A. Madero,1,Gustavo A. Madero,Urbano,11,Hombre,151.06,1.5106666,48.439999,21.225937,Sobrepeso
-9,Distrito Federal,5,Gustavo A. Madero,1,Gustavo A. Madero,Urbano,5,Mujer,118.44,1.1843333,20.76,14.800604,Normal
-9,Distrito Federal,5,Gustavo A. Madero,1,Gustavo A. Madero,Urbano,14,Hombre,164.56,1.6456666,58.360001,21.549221,Normal
-9,Distrito Federal,5,Gustavo A. Madero,1,Gustavo A. Madero,Urbano,10,Mujer,141.64,1.4163333,52.599998,26.221334,Obesidad
-9,Distrito Federal,5,Gustavo A. Madero,1,Gustavo A. Madero,Urbano,13,Mujer,157.03999,1.5703334,45.560001,18.475662,Normal
-9,Distrito Federal,5,Gustavo A. Madero,1,Gustavo A. Madero,Urbano,7,Mujer,112.36,1.1236666,20.1,15.919194,Normal
-9,Distrito Federal,5,Gustavo A. Madero,1,Gustavo A. Madero,Urbano,8,Hombre,128,1.28,32.439999,19.799805,Obesidad
-9,Distrito Federal,5,Gustavo A. Madero,1,Gustavo A. Madero,Urbano,8,Hombre,132.39999,1.3239999,29.74,16.965437,Normal
-9,Distrito Federal,5,Gustavo A. Madero,1,Gustavo A. Madero,Urbano,8,Mujer,125.84,1.2583333,24.200001,15.283541,Normal
-9,Distrito Federal,5,Gustavo A. Madero,1,Gustavo A. Madero,Urbano,17,Hombre,173.5,1.735,87.099998,28.934713,Sobrepeso
-9,Distrito Federal,5,Gustavo A. Madero,1,Gustavo A. Madero,Urbano,7,Mujer,122.34,1.2233334,31.799999,21.248951,Obesidad
-9,Distrito Federal,5,Gustavo A. Madero,1,Gustavo A. Madero,Urbano,5,Mujer,127.34,1.2733333,43.639999,26.91538,Obesidad
-9,Distrito Federal,7,Iztapalapa,1,Iztapalapa,Urbano,5,Hombre,114.9,1.149,20.559999,15.573384,Normal
-9,Distrito Federal,7,Iztapalapa,1,Iztapalapa,Urbano,17,Hombre,170,1.7,56.66,19.605536,Normal
-9,Distrito Federal,7,Iztapalapa,1,Iztapalapa,Urbano,11,Hombre,147.56,1.4756666,49.900002,22.91522,Sobrepeso
-9,Distrito Federal,7,Iztapalapa,1,Iztapalapa,Urbano,17,Mujer,154.53999,1.5453334,52,21.77504,Normal
-9,Distrito Federal,7,Iztapalapa,1,Iztapalapa,Urbano,13,Hombre,163.75999,1.6376666,65.300003,24.34794,Sobrepeso
-9,Distrito Federal,7,Iztapalapa,1,Iztapalapa,Urbano,9,Mujer,143.10001,1.4310001,45.099998,22.02405,Obesidad
-9,Distrito Federal,7,Iztapalapa,1,Iztapalapa,Urbano,13,Hombre,163.5,1.635,49.700001,18.591776,Normal
-9,Distrito Federal,7,Iztapalapa,1,Iztapalapa,Urbano,14,Mujer,152.56,1.5256667,45.400002,19.504578,Normal
-9,Distrito Federal,7,Iztapalapa,1,Iztapalapa,Urbano,9,Hombre,133.34,1.3333333,29.84,16.785002,Normal
-9,Distrito Federal,7,Iztapalapa,1,Iztapalapa,Urbano,15,Mujer,151,1.51,55.860001,24.498928,Sobrepeso
-9,Distrito Federal,7,Iztapalapa,1,Iztapalapa,Urbano,7,Mujer,120.64,1.2063333,20.6,14.155741,Normal
-9,Distrito Federal,7,Iztapalapa,1,Iztapalapa,Urbano,17,Mujer,152.53999,1.5253334,58,24.928631,Sobrepeso
-9,Distrito Federal,7,Iztapalapa,1,Iztapalapa,Urbano,8,Hombre,130.5,1.3049999,30.299999,17.791872,Sobrepeso
-9,Distrito Federal,7,Iztapalapa,1,Iztapalapa,Urbano,7,Mujer,120.76,1.2076668,22.540001,15.454669,Normal
-9,Distrito Federal,7,Iztapalapa,1,Iztapalapa,Urbano,13,Hombre,162.94,1.6293334,45.240002,17.0413,Normal
-9,Distrito Federal,7,Iztapalapa,1,Iztapalapa,Urbano,13,Hombre,158.10001,1.5810001,52.900002,21.163713,Normal
-9,Distrito Federal,7,Iztapalapa,1,Iztapalapa,Urbano,6,Hombre,116.74,1.1673332,20.959999,15.3816,Normal
-9,Distrito Federal,7,Iztapalapa,1,Iztapalapa,Urbano,8,Hombre,126.56,1.2656666,28.66,17.891121,Sobrepeso
-9,Distrito Federal,7,Iztapalapa,1,Iztapalapa,Urbano,11,Mujer,142.5,1.425,42.099998,20.732534,Sobrepeso
-9,Distrito Federal,7,Iztapalapa,1,Iztapalapa,Urbano,6,Mujer,120,1.2,23.4,16.25,Normal
-9,Distrito Federal,9,Milpa Alta,1,Villa Milpa Alta,Urbano,18,Mujer,156,1.5599999,60.799999,24.983566,Sobrepeso
-9,Distrito Federal,9,Milpa Alta,1,Villa Milpa Alta,Urbano,7,Hombre,116.5,1.165,26.959999,19.864061,Obesidad
-9,Distrito Federal,9,Milpa Alta,1,Villa Milpa Alta,Urbano,12,Mujer,149.25999,1.4926666,38.34,17.207846,Normal
-9,Distrito Federal,9,Milpa Alta,1,Villa Milpa Alta,Urbano,18,Hombre,162,1.62,55.139999,21.010517,Normal
-9,Distrito Federal,9,Milpa Alta,1,Villa Milpa Alta,Urbano,12,Mujer,145.66,1.4566667,38.900002,18.332817,Normal
-9,Distrito Federal,13,Xochimilco,1,Xochimilco,Urbano,16,Mujer,154.94,1.5493333,68.239998,28.428194,Sobrepeso
-9,Distrito Federal,13,Xochimilco,1,Xochimilco,Urbano,6,Hombre,106,1.0599999,16.700001,14.862943,Normal
-9,Distrito Federal,13,Xochimilco,1,Xochimilco,Urbano,15,Mujer,144.06,1.4406667,37.400002,18.019577,Normal
-9,Distrito Federal,13,Xochimilco,1,Xochimilco,Urbano,11,Mujer,119.46,1.1946666,27.34,19.15601,Normal
-9,Distrito Federal,13,Xochimilco,1,Xochimilco,Urbano,18,Hombre,163.34,1.6333333,65.160004,24.424824,Normal
-9,Distrito Federal,13,Xochimilco,1,Xochimilco,Urbano,5,Hombre,105.6,1.056,17.299999,15.513802,Normal
-9,Distrito Federal,13,Xochimilco,1,Xochimilco,Urbano,15,Hombre,157.06,1.5706667,52.34,21.216105,Normal
-9,Distrito Federal,13,Xochimilco,1,Xochimilco,Urbano,7,Hombre,126.34,1.2633333,27.66,17.330708,Sobrepeso
-9,Distrito Federal,13,Xochimilco,1,Xochimilco,Urbano,18,Mujer,159.5,1.595,64.699997,25.432137,Sobrepeso
-9,Distrito Federal,13,Xochimilco,1,Xochimilco,Urbano,13,Mujer,150.2,1.502,38.16,16.914865,Normal
-9,Distrito Federal,13,Xochimilco,1,Xochimilco,Urbano,11,Hombre,133.34,1.3333333,28.4,15.975001,Normal
-9,Distrito Federal,13,Xochimilco,1,Xochimilco,Urbano,5,Hombre,109.74,1.0973333,20.1,16.692406,Normal
-9,Distrito Federal,13,Xochimilco,1,Xochimilco,Urbano,19,Hombre,172.44,1.7243333,53.599998,18.026955,Normal
-9,Distrito Federal,13,Xochimilco,1,Xochimilco,Urbano,7,Mujer,133.10001,1.3310001,29.6,16.708426,Normal
-9,Distrito Federal,13,Xochimilco,1,Xochimilco,Urbano,15,Hombre,172.06,1.7206666,64.040001,21.630068,Normal
-9,Distrito Federal,13,Xochimilco,1,Xochimilco,Urbano,14,Mujer,151.89999,1.5189999,53.799999,23.316681,Normal
-9,Distrito Federal,13,Xochimilco,1,Xochimilco,Urbano,10,Hombre,138.2,1.382,39.360001,20.60815,Sobrepeso
-9,Distrito Federal,13,Xochimilco,1,Xochimilco,Urbano,15,Mujer,155.56,1.5556667,55.959999,23.123022,Normal
-9,Distrito Federal,13,Xochimilco,1,Xochimilco,Urbano,7,Hombre,125.2,1.252,23.74,15.145098,Normal
-9,Distrito Federal,13,Xochimilco,1,Xochimilco,Urbano,13,Mujer,156.8,1.5680001,45.959999,18.69338,Normal
-9,Distrito Federal,13,Xochimilco,1,Xochimilco,Urbano,5,Hombre,104.94,1.0493333,16.700001,15.166646,Normal
-9,Distrito Federal,13,Xochimilco,1,Xochimilco,Urbano,9,Hombre,143.56,1.4356667,59.099998,28.673468,Obesidad
-9,Distrito Federal,13,Xochimilco,1,Xochimilco,Urbano,19,Mujer,150.53999,1.5053334,74.099998,32.700382,Obesidad
-9,Distrito Federal,13,Xochimilco,1,Xochimilco,Urbano,11,Hombre,144.36,1.4436667,53.060001,25.458534,Obesidad
-9,Distrito Federal,13,Xochimilco,1,Xochimilco,Urbano,18,Mujer,153.8,1.538,59.66,25.221481,Sobrepeso
-9,Distrito Federal,13,Xochimilco,1,Xochimilco,Urbano,18,Mujer,154.46001,1.5446666,48.040001,20.134157,Normal
-9,Distrito Federal,13,Xochimilco,1,Xochimilco,Urbano,18,Hombre,173.7,1.737,80,26.514921,Sobrepeso
-9,Distrito Federal,13,Xochimilco,1,Xochimilco,Urbano,18,Mujer,160.3,1.603,51.459999,20.026392,Normal
-9,Distrito Federal,13,Xochimilco,1,Xochimilco,Urbano,11,Hombre,138.03999,1.3803334,30.440001,15.976315,Normal
-9,Distrito Federal,13,Xochimilco,1,Xochimilco,Urbano,10,Mujer,136.46001,1.3646666,39.240002,21.070553,Sobrepeso
-9,Distrito Federal,13,Xochimilco,1,Xochimilco,Urbano,9,Hombre,133.96001,1.3396666,38.34,21.362823,Obesidad
-9,Distrito Federal,13,Xochimilco,1,Xochimilco,Urbano,13,Mujer,151.46001,1.5146666,62.240002,27.129108,Obesidad
-9,Distrito Federal,13,Xochimilco,1,Xochimilco,Urbano,5,Mujer,110.54,1.1053333,20.76,16.991856,Normal
-9,Distrito Federal,7,Iztapalapa,1,Iztapalapa,Urbano,17,Hombre,165.5,1.655,55,20.080139,Normal
-9,Distrito Federal,7,Iztapalapa,1,Iztapalapa,Urbano,10,Hombre,138,1.38,28.5,14.965343,Normal
-9,Distrito Federal,7,Iztapalapa,1,Iztapalapa,Urbano,16,Hombre,168.39999,1.6839999,59.360001,20.931953,Normal
-9,Distrito Federal,7,Iztapalapa,1,Iztapalapa,Urbano,8,Mujer,128.16,1.2816668,28.299999,17.228052,Normal
-9,Distrito Federal,7,Iztapalapa,1,Iztapalapa,Urbano,17,Mujer,150.8,1.508,52.360001,23.024857,Normal
-9,Distrito Federal,7,Iztapalapa,1,Iztapalapa,Urbano,11,Hombre,136.16,1.3616667,33.759998,18.207939,Normal
-9,Distrito Federal,7,Iztapalapa,1,Iztapalapa,Urbano,14,Mujer,149.5,1.495,61.5,27.516472,Sobrepeso
-9,Distrito Federal,7,Iztapalapa,1,Iztapalapa,Urbano,13,Mujer,160.56,1.6056666,89.400002,34.675823,Obesidad
-9,Distrito Federal,7,Iztapalapa,1,Iztapalapa,Urbano,7,Mujer,126.06,1.2606666,26,16.359608,Normal
-9,Distrito Federal,7,Iztapalapa,1,Iztapalapa,Urbano,7,Mujer,123.26,1.2326667,23.799999,15.663384,Normal
+9,Distrito Federal,17,Venustiano Carranza,1,Venustiano Carranza,Urbano,5,Mujer,111.44,1.1143334,19.1,16.9462826,Normal
+9,Distrito Federal,15,Cuauhtémoc,1,Cuauhtémoc,Urbano,5,Mujer,108.2,1.082,19.24,17.10217333,Normal
+9,Distrito Federal,16,Miguel Hidalgo,1,Miguel Hidalgo,Urbano,10,Hombre,146.14,1.4613333,34.66,18.74112075,Normal
+9,Distrito Federal,14,Benito Juárez,1,Benito Juárez,Urbano,12,Mujer,152.66,1.5266668,69.860001,23.633472,Obesidad
+9,Distrito Federal,3,Coyoacán,1,Coyoacán,Urbano,13,Mujer,161.16,1.6116667,64.660004,23.057449,Sobrepeso
+9,Distrito Federal,10,Álvaro Obregón,1,Álvaro Obregón,Urbano,15,Mujer,162.5,1.625,70,20.73829917,Sobrepeso
+9,Distrito Federal,4,Cuajimalpa de Morelos,1,Cuajimalpa de Morelos,Urbano,9,Mujer,142,1.42,35,16.72028983,Normal
+9,Distrito Federal,5,Gustavo A. Madero,1,Gustavo A. Madero,Urbano,9,Hombre,131.66,1.3166667,41.560001,20.56379635,Obesidad
+9,Distrito Federal,7,Iztapalapa,1,Iztapalapa,Urbano,5,Hombre,114.9,1.149,20.559999,19.32063175,Normal
+9,Distrito Federal,9,Milpa Alta,1,Villa Milpa Alta,Urbano,18,Mujer,156,1.5599999,60.799999,20.2797614,Sobrepeso
+9,Distrito Federal,13,Xochimilco,1,Xochimilco,Urbano,16,Mujer,154.94,1.5493333,68.239998,20.83772691,Sobrepeso
+9,Distrito Federal,7,Iztapalapa,1,Iztapalapa,Urbano,17,Hombre,165.5,1.655,55,23.18373,Normal

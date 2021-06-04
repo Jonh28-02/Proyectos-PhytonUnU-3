@@ -1,0 +1,64 @@
+<html>
+<head>
+<title>GRAFICA INDIVIUDAL</title>
+<meta charset='utf-8'>
+<link rel='stylesheet' href='https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css' integrity='sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T' crossorigin='anonymous'>
+<link rel='stylesheet' type='text/css' href='morris.css'>	
+<script src='http://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js'></script>
+<script src='http://cdnjs.cloudflare.com/ajax/libs/raphael/2.1.0/raphael-min.js'></script>
+<script src='https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js' integrity='sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM' crossorigin='anonymous'></script>	
+<script src='Morris.js'></script>
+<script>    
+function grafica1(){
+  new Morris.Line({
+  element: 'graph',
+  data: [{x:'Venustiano Carranza', y:16.9462826, z:1},
+{x:'Cuauhtémoc', y:17.10217333, z:2},
+{x:'Miguel Hidalgo', y:18.74112075, z:3},
+{x:'Benito Juárez', y:23.633472, z:4},
+{x:'Coyoacán', y:23.057449, z:5},
+{x:'Álvaro Obregón', y:20.73829917, z:6},
+{x:'Cuajimalpa de Morelos', y:16.72028983, z:7},
+{x:'Gustavo A. Madero', y:20.56379635, z:8},
+{x:'Iztapalapa', y:19.32063175, z:9},
+{x:'Milpa Alta', y:20.2797614, z:10},
+{x:'Xochimilco', y:20.83772691, z:11},
+{x:'Iztapalapa', y:23.18373, z:12},
+
+          ],
+  xkey: 'x',
+      parseTime: false,
+      ykeys: ['y'],
+    labels: ['IMC'],
+    lineColors:['black']
+    });
+  
+      document.getElementById('div1').style.display='';
+    document.getElementById('boton1').style.display='none';
+}
+</script>
+</head>
+<body>
+<h1>Graficas sobre IMC y Obesidad en la Ciudad de Mexico</h1>
+<br>
+<br>
+<br>
+<h2>Presiona para mostrar la grafica</h2>
+<br>
+<br>
+<br>
+<h3 texto1></h3>
+<div id='graph'>
+  <div id="div1" style="display:none">
+  <br>
+  <br>
+    <p><h2>Esta grafica muestra el promedio del Imc de las diferentes alcaldias de la Ciudad de Mexico en el año de 2018</h2></p>
+  </div>
+</div>
+
+<div id='botones'>
+<input type='button' style="display:'';" id='boton1' value='grafica 1'  class="rainbow-button"  onclick='grafica1()'>
+
+</div>
+</body>
+</html>
